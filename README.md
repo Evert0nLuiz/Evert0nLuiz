@@ -14,6 +14,10 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Evert0nLuiz&hide=stars,issues,contribs,prs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
         [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Evert0nLuiz&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Evert0nLuiz&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ ## Linguagens
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white">
+  <h2> Redes Sociais </h2>
+<a href="https://www.linkedin.com/in/everton-luiz-4a1298211/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
 
 
 
