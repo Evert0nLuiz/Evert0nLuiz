@@ -5,7 +5,7 @@
 <html>
 
   <body>
-<h3> 🚀Estou aprendendo Java no momento<br>
+<h3 align = "center" > 🚀Estou aprendendo Java no momento<br>
 💬 Pergunte me sobre Estrutura de dados e POO - (Programação Orientada a Objetos)<br>
 📫 Para falar comigo mande um e-mail em: evertonluizdacruzsousa@hotmail.com ou me contate pelo <a href="https://www.linkedin.com/in/everton-luiz-4a1298211/">Linkedin</a><br>
 😄 Pronomes: Ele/Dele<br></h3>   
