@@ -32,9 +32,6 @@
   </tr>
 </table>
 
---- 
-
-### 🏆 GitHub Profile Trophy
 
 <p align="center">
   <a
