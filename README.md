@@ -53,7 +53,7 @@
 
 ---
   <body>
-<h4> 🚀Estou linguagem C no momento<br>
+<h4> 🚀Estou estudando linguagem C no momento<br>
 📫 Para falar comigo mande um e-mail em: evertonluizdacruzsousa@hotmail.com ou me contate pelo <a href="https://www.linkedin.com/in/everton-sousa-73b720348/">Linkedin</a><br>
 😄 Pronomes: Ele/Dele<br></h4>   
  </body>
