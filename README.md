@@ -6,9 +6,8 @@
 <html>
 
   <body>
-<h3 align = "center" > 🚀Estou aprendendo Java no momento<br>
-💬 Pergunte me sobre Estrutura de dados e POO - (Programação Orientada a Objetos)<br>
-📫 Para falar comigo mande um e-mail em: evertonluizdacruzsousa@hotmail.com ou me contate pelo <a href="https://www.linkedin.com/in/everton-luiz-4a1298211/">Linkedin</a><br>
+<h3 align = "center" > 🚀Estou linguagem C no momento<br>
+📫 Para falar comigo mande um e-mail em: evertonluizdacruzsousa@hotmail.com ou me contate pelo <a href="https://www.linkedin.com/in/everton-sousa-73b720348/">Linkedin</a><br>
 😄 Pronomes: Ele/Dele<br></h3>   
  </body>
 <table>
@@ -31,7 +30,7 @@
       <br />
       <img
         align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=iuricode&theme=dark&hide_border=false"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=Evert0nLuiz&theme=dark&hide_border=false"
         alt="Github Stats"
       />
     </td>
@@ -49,7 +48,7 @@
   >
     <img
       width="800"
-      src="https://github-profile-trophy.vercel.app/?username=iuricode&column=8&theme=darkhub&no-frame=true&no-bg=true"
+      src="https://github-profile-trophy.vercel.app/?username=Evert0nLuiz&column=8&theme=darkhub&no-frame=true&no-bg=true"
     />
   </a>
 </p>
@@ -62,7 +61,7 @@
 
 <p align="center">
   <img
-    src="https://profile-counter.glitch.me/iuricode/count.svg"
+    src="https://profile-counter.glitch.me/Evert0nLuiz/count.svg"
     alt="Número de visitantes no perfil"
   />
 </p>
@@ -70,8 +69,7 @@
  ## Linguagens
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white">   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">  
   <h2> Redes Sociais </h2>
-<a href="https://www.linkedin.com/in/everton-luiz-4a1298211/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/everton-sousa-73b720348/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
 
-  <h1> README EM CONSTRUÇÃO </h1>
 
 
