@@ -5,11 +5,6 @@
 
 <html>
 
-  <body>
-<h3> 🚀Estou linguagem C no momento<br>
-📫 Para falar comigo mande um e-mail em: evertonluizdacruzsousa@hotmail.com ou me contate pelo <a href="https://www.linkedin.com/in/everton-sousa-73b720348/">Linkedin</a><br>
-😄 Pronomes: Ele/Dele<br></h3>   
- </body>
 <table>
   <tr>
     <td>
@@ -54,7 +49,12 @@
 </p>
 
 ---
-
+  <body>
+<h3> 🚀Estou linguagem C no momento<br>
+📫 Para falar comigo mande um e-mail em: evertonluizdacruzsousa@hotmail.com ou me contate pelo <a href="https://www.linkedin.com/in/everton-sousa-73b720348/">Linkedin</a><br>
+😄 Pronomes: Ele/Dele<br></h3>   
+ </body>
+ 
 <div align="center">
   <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
