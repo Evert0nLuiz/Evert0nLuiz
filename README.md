@@ -32,7 +32,7 @@
   </tr>
 </table>
 
-<h1 align = "center" > ### 🏆 Troféus Ganhos
+<h1 align = "center" > 🏆 Troféus Ganhos
 <p align="center">
   <a
     href="https://github.com/ryo-ma/github-profile-trophy"
