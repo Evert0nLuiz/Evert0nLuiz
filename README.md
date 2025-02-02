@@ -32,7 +32,7 @@
   </tr>
 </table>
 
-
+### Troféus Ganhos
 <p align="center">
   <a
     href="https://github.com/ryo-ma/github-profile-trophy"
@@ -53,7 +53,7 @@
  </body>
  
 <div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
+  <h3><b>📍 Contador de visitas/b></h3>
 </div>
 
 <p align="center">
